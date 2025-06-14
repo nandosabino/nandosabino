@@ -1,28 +1,55 @@
-### Hi guys, I'm Fernando! 👾
+<img src="https://via.placeholder.com/1200x300.png?text=Fernando+Sabino+%7C+FullStack+Developer" alt="Banner Fernando Sabino" width="100%"/>
 
-I am a programmer in training. 🧑‍💻
 
-This is where I share a little about my studies and projects!
-<br>
-<br>
-•📫Talk to me here: sabinofernando05@gmail.com
-<br>
-<br>
-🌍 Portuguese | English | Spanish
-<br>
-<br>
+### Olá pessoal, eu sou o Fernando! 👾
 
-#### Languages and Tools:
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<br>
-<br>
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=nandosabino&show_icons=true&theme=transparent)
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/fernando-sabino-da-silva-carneiro-495220305/">
-<img src="https://github.com/user-attachments/assets/11784568-8a11-4bf5-b48b-18409ba6f566" align="center" width="30px">
-</a>
-<a href="https://www.instagram.com/_nandosabino/">
-  <img src="https://github.com/user-attachments/assets/051e4dfe-b62d-4985-8762-629b059c465e" align="center" width="23px"> 
-</a>
+Sou Desenvolvedor **FullStack** em constante evolução. 🧑‍💻
 
+
+Aqui é onde eu compartilho minha jornada, estudos e projetos que desenvolvo.
+Apaixonado por tecnologia e sempre aprendendo coisas novas!
+
+
+📫 **Fale comigo:** sabinofernando05@gmail.com
+
+🌍 **Idiomas:** Português | Inglês
+
+
+---
+
+
+### 🖥️ Tecnologias e Ferramentas:
+
+<div align="left">
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" alt="Docker"/>
+
+
+
+
+</div>
+
+
+---
+
+
+### 🔗 Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandosabino/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nandosabino/)
+
+
+---
+
+
+[![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=nandosabino)](https://github.com/anuraghazra/github-readme-stats)
