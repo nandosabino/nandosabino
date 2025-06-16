@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://via.placeholder.com/1200x300.png?text=Fernando+Sabino+%7C+FullStack+Developer" alt="Banner Fernando Sabino" width="100%"/>
+<img src="https://github.com/nandosabino/nandosabino/blob/main/banner%20github.png?raw=true" alt="Banner Fernando Sabino" width="100%"/>
 </p>
 
 
